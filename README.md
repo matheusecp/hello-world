@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 
 Hello guys!
 My name is Matheus and I'm in the journey of learning how to program.
